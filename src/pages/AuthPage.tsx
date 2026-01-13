@@ -169,7 +169,8 @@ export default function AuthPage(): JSX.Element {
               <li>Complete habits to gain XP</li>
               <li>Plant stages level up automatically from XP</li>
               <li>Streaks + decay (future implementation)</li>
-              <li>Sign in using supabase</li>
+              <li>Enter an Email and at least a 6-character password to sign up or sign in</li>
+              <li>Signing up will send an email verification</li>
             </ul>
           </Card>
         </main>
