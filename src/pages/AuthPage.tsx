@@ -161,7 +161,7 @@ export default function AuthPage(): JSX.Element {
           </Card>
 
           <Card
-            title="Welcome to Habiy Garden"
+            title="Welcome to Habit Garden!"
             subtitle="A garden that grows when you complete habits."
           >
             <ul className="list-disc pl-5 text-sm text-slate-700 space-y-2">
