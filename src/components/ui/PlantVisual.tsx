@@ -2,12 +2,12 @@ import { motion } from "framer-motion";
 import type { JSX } from "react";
 
 const STAGE_IMAGES: Record<number, string> = {
-  0: "/plants/sprout_stage_0.png",
-  1: "/plants/01.png",
-  2: "/plants/02.png",
-  3: "/plants/03.png",
-  4: "/plants/04.png",
-  5: "/plants/05.png",
+  0: "/plants/01.png",
+  1: "/plants/02.png",
+  2: "/plants/03.png",
+  3: "/plants/04.png",
+  4: "/plants/05.png",
+  5: "/plants/06.png",
 };
 
 type PlantVisualProps = {
