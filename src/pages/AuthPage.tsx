@@ -161,14 +161,15 @@ export default function AuthPage(): JSX.Element {
           </Card>
 
           <Card
-            title="What you’ll build"
+            title="Welcome to Habiy Garden"
             subtitle="A garden that grows when you complete habits."
           >
             <ul className="list-disc pl-5 text-sm text-slate-700 space-y-2">
               <li>Create habits (daily/weekly) with XP rewards</li>
               <li>Complete habits to gain XP</li>
               <li>Plant stages level up automatically from XP</li>
-              <li>Streaks + decay later (optional)</li>
+              <li>Streaks + decay (future implementation)</li>
+              <li>Sign in using supabase</li>
             </ul>
           </Card>
         </main>
